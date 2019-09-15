@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Zeit
+Esta web-app fui subida en zeit.co https://calculadora-1jx17tdv8.now.sh/
 
 ## Available Scripts
 
